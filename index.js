@@ -22,13 +22,7 @@ function sayHiToGrandma(string) {
 } else if (string.toUpperCase === "HELLO") {
   return ("YES INDEED!");
  
-} else if (string("I love you, Grandma!") === "playful") {
-  console.log("Playing tug-of-war.")
- 
-} else if (dog === "cuddly") {
-  console.log("Snuggling.")
- 
-} else { 
-  console.log("Reading newspaper.")
+} else if (string("I love you, Grandma!") === "I love you, Grandma!") {
+  console.log("I love you, too!");
 }
-}
+  }
