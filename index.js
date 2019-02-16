@@ -16,13 +16,13 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
  
-  if (sayHiToGrandma() === "hello") {
+  if (sayHiToGrandma(string) === "hello") {
   return("I can't hear you.");
  
-} else if (sayHiToGrandma() === "HELLO") {
+} else if (sayHiToGrandma(string) === "HELLO") {
   return ("YES INDEED!");
  
-} else if (sayHiToGrandma() === "I love you, Grandma!") {
+} else if (sayHiToGrandma(sting) === "I love you, Grandma!") {
   return("I love you, too!");
 }
   }
